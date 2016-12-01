@@ -28,7 +28,7 @@ var schema = new mongoose.Schema({
   requirements: {
   	type: Array,
   	required: true,
-  	length:1
+  	length:0
   }
 });
 
